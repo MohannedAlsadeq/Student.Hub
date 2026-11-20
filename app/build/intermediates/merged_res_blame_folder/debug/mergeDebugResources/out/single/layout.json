@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.studenthub.app-mergeDebugResources-46:/layout/dialog_assignment.xml",
+        "source": "com.studenthub.app-main-49:/layout/dialog_assignment.xml"
+    },
+    {
+        "merged": "com.studenthub.app-mergeDebugResources-46:/layout/dialog_task.xml",
+        "source": "com.studenthub.app-main-49:/layout/dialog_task.xml"
+    },
+    {
+        "merged": "com.studenthub.app-mergeDebugResources-46:/layout/item_card.xml",
+        "source": "com.studenthub.app-main-49:/layout/item_card.xml"
+    },
+    {
+        "merged": "com.studenthub.app-mergeDebugResources-46:/layout/fragment_list.xml",
+        "source": "com.studenthub.app-main-49:/layout/fragment_list.xml"
+    },
+    {
+        "merged": "com.studenthub.app-mergeDebugResources-46:/layout/dialog_exam.xml",
+        "source": "com.studenthub.app-main-49:/layout/dialog_exam.xml"
+    },
+    {
+        "merged": "com.studenthub.app-mergeDebugResources-46:/layout/activity_main.xml",
+        "source": "com.studenthub.app-main-49:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.studenthub.app-mergeDebugResources-46:/layout/dialog_idea.xml",
+        "source": "com.studenthub.app-main-49:/layout/dialog_idea.xml"
+    },
+    {
+        "merged": "com.studenthub.app-mergeDebugResources-46:/layout/activity_welcome.xml",
+        "source": "com.studenthub.app-main-49:/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "com.studenthub.app-mergeDebugResources-46:/layout/fragment_home.xml",
+        "source": "com.studenthub.app-main-49:/layout/fragment_home.xml"
+    }
+]

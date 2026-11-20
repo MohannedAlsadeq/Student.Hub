@@ -1,0 +1,4 @@
+<resources>
+    <!-- Change this one color to re-theme the whole app -->
+    <color name="brand">#3F51B5</color>
+</resources>

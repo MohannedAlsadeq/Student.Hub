@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "com.studenthub.app-debug-47:/drawable_ic_add.xml.flat",
+        "source": "com.studenthub.app-main-49:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "com.studenthub.app-debug-47:/drawable_ic_task.xml.flat",
+        "source": "com.studenthub.app-main-49:/drawable/ic_task.xml"
+    },
+    {
+        "merged": "com.studenthub.app-debug-47:/layout_activity_main.xml.flat",
+        "source": "com.studenthub.app-main-49:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.studenthub.app-debug-47:/drawable_ic_idea.xml.flat",
+        "source": "com.studenthub.app-main-49:/drawable/ic_idea.xml"
+    },
+    {
+        "merged": "com.studenthub.app-debug-47:/drawable_ic_exam.xml.flat",
+        "source": "com.studenthub.app-main-49:/drawable/ic_exam.xml"
+    },
+    {
+        "merged": "com.studenthub.app-debug-47:/drawable_bg_avatar.xml.flat",
+        "source": "com.studenthub.app-main-49:/drawable/bg_avatar.xml"
+    },
+    {
+        "merged": "com.studenthub.app-debug-47:/layout_dialog_task.xml.flat",
+        "source": "com.studenthub.app-main-49:/layout/dialog_task.xml"
+    },
+    {
+        "merged": "com.studenthub.app-debug-47:/layout_item_card.xml.flat",
+        "source": "com.studenthub.app-main-49:/layout/item_card.xml"
+    },
+    {
+        "merged": "com.studenthub.app-debug-47:/menu_bottom_nav.xml.flat",
+        "source": "com.studenthub.app-main-49:/menu/bottom_nav.xml"
+    },
+    {
+        "merged": "com.studenthub.app-debug-47:/layout_fragment_list.xml.flat",
+        "source": "com.studenthub.app-main-49:/layout/fragment_list.xml"
+    },
+    {
+        "merged": "com.studenthub.app-debug-47:/layout_activity_welcome.xml.flat",
+        "source": "com.studenthub.app-main-49:/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "com.studenthub.app-debug-47:/drawable_ic_assignment.xml.flat",
+        "source": "com.studenthub.app-main-49:/drawable/ic_assignment.xml"
+    },
+    {
+        "merged": "com.studenthub.app-debug-47:/drawable_ic_home.xml.flat",
+        "source": "com.studenthub.app-main-49:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.studenthub.app-debug-47:/layout_dialog_exam.xml.flat",
+        "source": "com.studenthub.app-main-49:/layout/dialog_exam.xml"
+    },
+    {
+        "merged": "com.studenthub.app-debug-47:/layout_dialog_idea.xml.flat",
+        "source": "com.studenthub.app-main-49:/layout/dialog_idea.xml"
+    },
+    {
+        "merged": "com.studenthub.app-debug-47:/layout_dialog_assignment.xml.flat",
+        "source": "com.studenthub.app-main-49:/layout/dialog_assignment.xml"
+    },
+    {
+        "merged": "com.studenthub.app-debug-47:/drawable_ic_delete.xml.flat",
+        "source": "com.studenthub.app-main-49:/drawable/ic_delete.xml"
+    },
+    {
+        "merged": "com.studenthub.app-debug-47:/layout_fragment_home.xml.flat",
+        "source": "com.studenthub.app-main-49:/layout/fragment_home.xml"
+    }
+]
